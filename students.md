@@ -22,7 +22,7 @@ This is a list of students and teachers of the HU master Data Driven Design with
 * [Shayan](https://github.com/shayan-z/)
 * [Sjoerd](https://github.com/Sjoerdklaver/)
 * [Yvonne](https://github.com/yvonnebutselaar)
-
+* [Hanna](https://github.com/hannavw/)
 
 
 
