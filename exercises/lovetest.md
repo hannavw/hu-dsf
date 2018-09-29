@@ -24,3 +24,4 @@ Calculate a 'similarity percentage' based on multiple criteria, such as:
 * [Bente](https://github.com/bentevo/ddd/blob/master/matchmaker.py)
 * [Bob](https://github.com/bw9300/Data-Science-Fundamentals/blob/master/lovetest.py)
 * [Tomas](https://github.com/tomashabraken/Love_test/blob/master/Love_test.py)
+* [Hanna](https://github.com/hannavw/DSF/blob/master/Love_test.py)
