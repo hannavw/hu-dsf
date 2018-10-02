@@ -12,3 +12,4 @@ Extend the program so that after printing the name the program asks for their fa
 * [Kolien](https://github.com/KolienPleijsant/master/blob/master/snacklist.py)
 * [Sjoerd](https://github.com/Sjoerdklaver/data-driven-design/blob/master/names_snacks.py)
 * [Alex](https://github.com/Alex-Gaas/Data-Science-Fundamentals/blob/master/favoritesnack.py)
+* [Hanna](https://github.com/hannavw/dsf_exercises/blob/master/friends_snack_and_lenght.py)
